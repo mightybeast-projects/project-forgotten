@@ -1,0 +1,159 @@
+Boss:
+- AI:
+    - Sequence of actions:
+        - Spawn bullet pattern
+        - Spawn bullet pattern
+        - Spawn bullet pattern
+        - Spawn bullet pattern
+        - Spawn bullet pattern        
+
+- Spawn bullet pattern:
+    - PatternData:
+        - spawn points
+        - spawn rate
+        - angle
+        - proj
+        - proj speed
+        -? offsets
+            - x
+            - y
+        -? spinning
+            - spin speed
+    - Spawn type
+        - type
+        - duration=
+
+- Spawn once
+- Loop
+- Spawn for Duration
+- loop for duration -> duration higher than data
+- spawntype?
+
+CAMERA ANIMATION
+- Pulse camera with the beat (different camera sizes (AWARE))
+- Switch camera target
+
+BOSS ROOM ANIMATION
+- Rotate boss room
+- Shrink boss room
+- Color changes (?)
+
+BOSS ANIMATION
+- Move boss
+
+- If animation -> need to sync it with the beat in editor
+
+-------------------------------------------------------------------
+
+Bullet patterns:
+    1-way-linear
+    2-way-linear
+    4-way-linear
+    8-way-linear
+    half-arena-top
+    half-arena-bottom
+    4-way-linear with delay
+    double-lasers
+    three-way-laser
+    spiral-right
+    spiral-left
+    multi-spiral-right
+    multi-spiral-left
+    switch-spiral
+    impulse
+    random-all-range
+    circle(with opening)
+    outside-in-circle
+
+Bullets:
+    Constant velocity (simple)
+    Explode after delay
+    Grow after delay
+    Accelerating velocity
+    Decelerating velocity
+
+Bullet shapes:
+    Round
+    Triangular
+    Oval
+
+Location events:
+    Zoom out
+    Switch camera
+    Reset camera
+    Rotate location
+    
+Pattern setiings:
+    bullet count
+    bullet scale
+    angle
+    arrays
+    ring
+    sin wave
+    spawner rotation
+    offset
+
+360 1 -> 0
+360 2 -> 0, 180
+360 3 -> 0, 120 240
+360 4 -> 0, 90, 180, 360
+90 1 -> 0
+90 2 -> 0, 90
+90 3 -> 0, 45, 90
+90 4 -> 0, 30, 60, 90
+
+----------------------------------------------------------
+
+BOSS
+    - Animation:
+        - 2 animation layers: 
+            - Boss animation layer:
+                - Boss movement
+            - Beat layer:
+                - Different signatures (I can even make DnB, Trap, House, beat this way)
+                - Invokes shoot method on beat frame
+
+    - Bullet spawner:
+        - Bullet pattern:
+            - Pattern parameters:
+                - bullet count
+                - bullet scale
+                - angle
+                - arrays
+                - ring
+                - sin wave
+                - spawner rotation
+                - offset
+        - Bullet types:
+
+
+CAMERA
+    - Animation:
+        - Camera pulse (synced with song bpm)
+        - Switch camera target
+        - Change camera size
+
+LOCATION 
+    - Animation:
+        - Change location size
+        - Switch to a different location
+
+BULLET PATTERNS:
+    1-way-linear
+    2-way-linear
+    4-way-linear
+    8-way-linear
+    half-arena-top
+    half-arena-bottom
+    4-way-linear with delay
+    double-lasers
+    three-way-laser
+    spiral-right
+    spiral-left
+    multi-spiral-right
+    multi-spiral-left
+    switch-spiral
+    impulse
+    random-all-range
+    circle(with opening)
+    outside-in-circle

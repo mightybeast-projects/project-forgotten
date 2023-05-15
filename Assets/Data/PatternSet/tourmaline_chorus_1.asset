@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d5d99bd09998f144b4f4da288312cd7, type: 3}
+  m_Name: tourmaline_chorus_1
+  m_EditorClassIdentifier: 
+  patterns:
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: a999db99c81698647a8af9ad1b46e150, type: 2}
+  - {fileID: 11400000, guid: a999db99c81698647a8af9ad1b46e150, type: 2}
+  - {fileID: 11400000, guid: a999db99c81698647a8af9ad1b46e150, type: 2}
+  - {fileID: 11400000, guid: a999db99c81698647a8af9ad1b46e150, type: 2}
+  - {fileID: 11400000, guid: a999db99c81698647a8af9ad1b46e150, type: 2}
+  - {fileID: 11400000, guid: 5b3f655054a89554daa79d3c63952e9b, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: 0bb8ecabfeec973479175d8328c9ea3a, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: 0a4d3d6316f676849a78aef4b172c884, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: 68feee2f177cc9743aae22236abaa603, type: 2}

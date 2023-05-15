@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d5d99bd09998f144b4f4da288312cd7, type: 3}
+  m_Name: saphire_chorus_1
+  m_EditorClassIdentifier: 
+  patterns:
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: a141c73f19abdf7489949b7b6b42a430, type: 2}
+  - {fileID: 11400000, guid: a141c73f19abdf7489949b7b6b42a430, type: 2}
+  - {fileID: 11400000, guid: a141c73f19abdf7489949b7b6b42a430, type: 2}
+  - {fileID: 11400000, guid: a141c73f19abdf7489949b7b6b42a430, type: 2}
+  - {fileID: 11400000, guid: a141c73f19abdf7489949b7b6b42a430, type: 2}
+  - {fileID: 11400000, guid: ab96cf4e6046a8547b603fedb2456466, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: de66a859ec2542142a3dbebe4e20a8be, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: 4c538ced336e03f448e90c9bd93d13e1, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: 168062770c8fd804fab59831e49e45d6, type: 2}

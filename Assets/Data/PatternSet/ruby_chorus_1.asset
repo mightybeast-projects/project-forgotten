@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d5d99bd09998f144b4f4da288312cd7, type: 3}
+  m_Name: ruby_chorus_1
+  m_EditorClassIdentifier: 
+  patterns:
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: fe197735cab451843afe54150d5e3926, type: 2}
+  - {fileID: 11400000, guid: fe197735cab451843afe54150d5e3926, type: 2}
+  - {fileID: 11400000, guid: fe197735cab451843afe54150d5e3926, type: 2}
+  - {fileID: 11400000, guid: fe197735cab451843afe54150d5e3926, type: 2}
+  - {fileID: 11400000, guid: fe197735cab451843afe54150d5e3926, type: 2}
+  - {fileID: 11400000, guid: b54ff99f0d0bba44db178069cf8ef687, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: f9ed78b882b7eec4b9f7b21664bb3279, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: f5f09041f25c72d49b52a0e19a213617, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: 4c79159787865da4c9a230da6f80a06a, type: 2}

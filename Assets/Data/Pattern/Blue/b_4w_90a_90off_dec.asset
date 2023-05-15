@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfdab6887a058ae4599cd6b3a54203c5, type: 3}
+  m_Name: b_4w_90a_90off_dec
+  m_EditorClassIdentifier: 
+  disable: 0
+  isImpulse: 0
+  bulletPrefab: {fileID: 8498487031478886934, guid: 6c9eec37aa2f55046ad44fac349c4acb, type: 3}
+  bulletCount: 4
+  bulletSpeed: 10
+  bulletAccellerationRate: 0
+  bulletDecellerationRate: 0.035
+  angle: 90
+  angleOffset: 90
+  rotationSpeed: 0
+  spawnOffset: {x: 0, y: 0}

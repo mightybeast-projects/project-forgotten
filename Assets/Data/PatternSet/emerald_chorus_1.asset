@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d5d99bd09998f144b4f4da288312cd7, type: 3}
+  m_Name: emerald_chorus_1
+  m_EditorClassIdentifier: 
+  patterns:
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: 05d57c7cab7ccdb4d83d95d61f796eab, type: 2}
+  - {fileID: 11400000, guid: 05d57c7cab7ccdb4d83d95d61f796eab, type: 2}
+  - {fileID: 11400000, guid: 05d57c7cab7ccdb4d83d95d61f796eab, type: 2}
+  - {fileID: 11400000, guid: 05d57c7cab7ccdb4d83d95d61f796eab, type: 2}
+  - {fileID: 11400000, guid: 05d57c7cab7ccdb4d83d95d61f796eab, type: 2}
+  - {fileID: 11400000, guid: 67e3f61c216bf954085848afacd81993, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: d37143482b956374eb9bd077e672a05f, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: 2422a5d5386efc742abecb341c546e76, type: 2}
+  - {fileID: 11400000, guid: 325a7c92d7bab0d4f9f373f67f027725, type: 2}
+  - {fileID: 11400000, guid: 8b0df0990df90604a90830098f978974, type: 2}
